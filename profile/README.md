@@ -2,6 +2,8 @@
 
 ## Links
 
+[📍Notion](https://gdsc-dju.notion.site/GDSC-Daejin-0bc498a1454945959871a65d3444166d)
+
 [📍GDSC DJU WEB](https://web.gdsc-dju.com) 소개사이트
 
 [📍GDSC DJU SHARED](https://shared.gdsc-dju.com) 이벤트 사이트
