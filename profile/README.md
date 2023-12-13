@@ -4,17 +4,17 @@
 
 ## Links
 
-[📍Notion](https://gdsc-dju.notion.site/GDSC-Daejin-0bc498a1454945959871a65d3444166d)
+[📍Notion](https://gdsc-dju.notion.site/GDSC-DJU-e20c129e53fc453696731813aaceb2a9?pvs=4)
 
-[📍GDSC DJU WEB](https://web.gdsc-dju.com) 소개사이트
+[📍GDSC DJU WEB](https://gdscdju.dev) 소개사이트
 
-[📍GDSC DJU SHARED](https://shared.gdsc-dju.com) 이벤트 사이트
+[📍GDSC DJU SHARED](https://shared.gdscdju.dev) 이벤트 사이트
 
-[📍GDSC DJU BLOG](https://blog.gdsc-dju.com) 기술 블로그
+[📍GDSC DJU BLOG](https://blog.gdscdju.dev) 기술 블로그
 
-[📍GDSC DJU HEY TEDDY](https://teddy.gdsc-dju.com) 칭찬 시스템
+[📍GDSC DJU HEY TEDDY](https://teddy.gdscdju.dev) 칭찬 시스템
 
-[📍GDSC DJU DESIGN SYSTEM](https://design.gdsc-dju.com) 디자인 시스템
+[📍GDSC DJU DESIGN SYSTEM](https://design.gdscdju.dev) 디자인 시스템
 
 ## Code of Conduct
 
